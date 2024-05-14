@@ -13,7 +13,7 @@ Mikhail.
 
 ![image](https://github.com/lukcad/ZML_EXTRACTOR/assets/22641302/2c4bbb86-90b2-4087-b0ae-08305a434168)
 
-2-- create structure which is required for customer![image](https://github.com/lukcad/ZML_EXTRACTOR/assets/22641302/65be28f7-4000-410d-b3ee-9fa250a7d41b)
+2-- create structure which is required for customer
 
     	@EndUserText.label : 'ZML_TEST_STRUCT'
     	@AbapCatalog.enhancementCategory : #NOT_EXTENSIBLE
